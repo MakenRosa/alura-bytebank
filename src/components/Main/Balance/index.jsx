@@ -10,7 +10,7 @@ export default function Balance({ balance }) {
       </div>
       <div className={styles.divider} />
       <p className={styles.account}>Checking Account</p>
-      <p className={styles.value}>{`$ ${balance}`}</p>
+      <p data-testid='balance' className={styles.value}>{`$ ${balance}`}</p>
     </div>
   );
 }
