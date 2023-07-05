@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import styles from './Form.module.css';
 
-export default function Formulario({ performTransaction }) {
+export default function Form({ performTransaction }) {
   const [valueObject, setValueObject] = useState({
     transaction: '',
     value: '',
@@ -48,7 +48,7 @@ export default function Formulario({ performTransaction }) {
       <input
         onChange={handleChange}
         className={styles.value__field}
-        type="number"
+        type='number'
         value={valueObject.value}
         name="value"
         id="value"
