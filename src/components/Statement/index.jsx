@@ -1,7 +1,7 @@
 import styles from './Statement.module.css';
 import Transactions from './Transactions';
 
-export default function Extrato({ transactions }) {
+export default function Statement({ transactions }) {
   return (
     <section className={styles.container}>
       <h2 className={styles.title}>Statement</h2>
