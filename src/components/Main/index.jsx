@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from './Main.module.css';
 import { ReactComponent as Illustration } from './illustration.svg';
 import Balance from './Balance';
