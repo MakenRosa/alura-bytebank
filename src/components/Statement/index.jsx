@@ -9,7 +9,11 @@ export default function Extrato({ transactions }) {
       <ul>
         {transactions.map((transaction, index) => {
           return (
-            <Transactions key={index} transaction={transaction} styles={styles} />
+            <Transactions
+              key={index}
+              transaction={transaction}
+              styles={styles}
+            />
           );
         })}
       </ul>

@@ -2,7 +2,10 @@ import React, { useState } from 'react';
 import styles from './Form.module.css';
 
 export default function Formulario({ performTransaction }) {
-  const [valueObject, setValueObject] = useState({ transaction: '', value: '' });
+  const [valueObject, setValueObject] = useState({
+    transaction: '',
+    value: '',
+  });
 
   function handleChange(e) {
     const { name, value } = e.target;
@@ -34,7 +37,7 @@ export default function Formulario({ performTransaction }) {
         data-testid="select-options"
       >
         <option defaultValue="Select a transaction type">
-            Select a transaction type
+          Select a transaction type
         </option>
         <option value="Deposit">Deposit</option>
         <option value="Transfer">Transfer</option>
