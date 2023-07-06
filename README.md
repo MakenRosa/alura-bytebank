@@ -1,6 +1,8 @@
 # Bytebank
 
-Este é um projeto desenvolvido durante o curso "React JS: Crie testes com Jest e Testing Library e garanta o funcionamento do Front-end" da Alura. Neste curso, foi abordada a importância dos testes no desenvolvimento de aplicações Front-end utilizando as ferramentas Jest e React Testing Library. Alguns dos tópicos abordados incluem:
+Este é um projeto desenvolvido durante o curso "React JS: Crie testes com Jest e Testing Library e garanta o funcionamento do Front-end" da Alura. (8 horas, Concluído)
+
+Neste curso, foi abordada a importância dos testes no desenvolvimento de aplicações Front-end utilizando as ferramentas Jest e React Testing Library. Alguns dos tópicos abordados incluem:
 
 - Compreensão da importância dos testes no desenvolvimento de aplicações Front-end.
 - Utilização das ferramentas Jest e React Testing Library para escrever testes automatizados em aplicações React.
