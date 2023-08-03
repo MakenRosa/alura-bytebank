@@ -10,7 +10,7 @@ Neste curso, foi abordada a importância dos testes no desenvolvimento de aplica
 - Proteção da aplicação em produção contra possíveis bugs por meio de testes automatizados.
 - Garantia da qualidade do código por meio de testes.
 
-**[Acesse aqui o Alura-Bytebank pelo Vercel](https://alura-bytebank.vercel.app/)**
+**[Acesse aqui o Bytebank pelo Vercel](https://alura-bytebank.vercel.app/)**
 
 ## Como clonar o repositório
 
@@ -25,7 +25,7 @@ Siga as etapas abaixo para clonar este repositório e executar o projeto em sua 
 4. Execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/makenrosa/alura-bytebank.git
+git clone https://github.com/makenrosa/bytebank.git
 ```
 
 5. Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
@@ -125,6 +125,6 @@ A estrutura básica do projeto é a seguinte:
 
 Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/alura-bytebank/issues) neste repositório.
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/bytebank/issues) neste repositório.
 
 Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.
