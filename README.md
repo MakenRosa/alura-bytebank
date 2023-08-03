@@ -10,7 +10,7 @@ Neste curso, foi abordada a importância dos testes no desenvolvimento de aplica
 - Proteção da aplicação em produção contra possíveis bugs por meio de testes automatizados.
 - Garantia da qualidade do código por meio de testes.
 
-**[Acesse aqui o Bytebank pelo Vercel](https://alura-bytebank.vercel.app/)**
+**[Acesse aqui o Bytebank pelo Vercel](https://bytebank-aug.vercel.app/)**
 
 ## Como clonar o repositório
 
